@@ -1,4 +1,4 @@
 ---
-permalink: https://dstewart19.github.io/about/
+permalink: /about/
 title: "About"
 ---
