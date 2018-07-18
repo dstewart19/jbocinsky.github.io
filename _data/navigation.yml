@@ -1,13 +1,22 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "Home"
-   url: https://dstewart19.github.io/
-  - title: "About"
-   url: https://dstewart19.github.io/about/
-  - title: "Contact"
-   url: https://dstewart19.github.io/contact/
+  #- title: "Quick-Start Guide"
+  #url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  
+   - title: "About"
+     url: /about/
+
+   - title: "CV"
+     url: /CV/
+
+   - title: "Projects"
+     url: /projects/
+
+   - title: "Publications"
+     url: /pubs/
+
+
+
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"

@@ -12,11 +12,11 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dylan Stewart Bio"
+title                    : "Dylan Stewart"
 title_separator          : "-"
 name                     : "Dylan Stewart"
 description              : "This is my personal bio to keep up to date with past and current projects."
@@ -101,11 +101,11 @@ analytics:
 # Site Author
 author:
   name             : "Dylan Stewart"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images/dsavatar.jpg/
   bio              : "Electrical Engineer - Machine Learning"
   location         : "Gainesville, Florida"
-  email            :
-  uri              :
+  email            : "d.stewart@ufl.edu"
+  uri              : 
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
@@ -113,13 +113,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "dstewart19"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "dylanrstewart" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
@@ -271,8 +271,9 @@ defaults:
       related: true
    # _pages
   - scope:
-      path: ""
+      path: _pages
       type: pages
     values:
       layout: single
       author_profile: true
+
