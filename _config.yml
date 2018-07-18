@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "Dylan Stewart"
-  avatar           : /assets/images/dsavatar.jpg/
+  avatar           : /assets/images/dsavatar.jpg
   bio              : "Electrical Engineer - Machine Learning"
   location         : "Gainesville, Florida"
   email            : "d.stewart@ufl.edu"
