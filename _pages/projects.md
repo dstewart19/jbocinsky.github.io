@@ -12,9 +12,7 @@ Beginning in May 2017 I have been working on research funded by the United State
 
 # Other Research Projects
 ## CESU: Hurricane effects on the distribution and management of plant invasions in coastal habitats (October 2020 - Present)
-<img src="/assets/images/2021_Data_collection.jpg" alt="drawing" width="400"/>
-- Developed approaches to measure invasive species in the Everglades using hyperspectral sensors
-- Gathered field measurements using mobile spectrometers and a cablecam-mounted hyperspectral camera
+<img src="/assets/images/2021_Data_collection.jpg" alt="drawing" width="400"/> Developed approaches to measure invasive species in the Everglades using hyperspectral sensors. Gathered field measurements using mobile spectrometers and a cablecam-mounted hyperspectral camera
 
 # Class Projects
 Outside of my main research I have completed several projects in the area of Machine Learning
