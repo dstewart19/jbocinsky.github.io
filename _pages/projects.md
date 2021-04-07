@@ -13,7 +13,7 @@ Beginning in May 2017 I have been working on research funded by the United State
 # Other Research Projects
 ## CESU: Hurricane effects on the distribution and management of plant invasions in coastal habitats (October 2020 - Present)
 ![Data Collection1](/assets/images/2021_Data_collection_small.jpg){:class="align-left"} The main goal of this project is to track an invasive tree known as the Brazilian Pepper Tree (see picture). I developed approaches to measure invasive species in the Everglades using hyperspectral sensors including hand-held and mounted on a cable-cam system. [Link to cable-cam test video](https://twitter.com/Gator_Sense/status/1371965815705141248) In just a couple of days of data collection we were able to identify 62 species in the Everglades and capture hyperspectral signatures for each! Check out our iNaturalist project where we have compiled our photos and species labels. [iNaturalist Project](https://www.inaturalist.org/projects/uf-everglades-hurricane-impacts)  
-  
+---- 
 
 
 # Class Projects
