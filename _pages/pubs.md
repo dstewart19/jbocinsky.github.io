@@ -4,10 +4,10 @@ title: "Publications"
 ---
 
 ## Software Packages
-D. Stewart, S. Marconi, IDTREES competition 2020 evaluation code (Version 1.0). Zenodo. http://doi.org/10.5281/zenodo.3833216, May 2020
+D. Stewart, S. Marconi, IDTREES competition 2020 evaluation code (Version 1.0). Zenodo. May 2020 [Zenodo Link](http://doi.org/10.5281/zenodo.3833216)
 
 ## Journal Publications
-B. Weinstein, S. Graves, S. Marconi, A. Singh, A. Zare, D. Stewart, S. Bohlman and E. P. White, “A benchmarkdataset for individual tree crown delineation in co-registered airborne RGB, LIDAR and hyperspectralimagery from the National Ecological Observation Network.” **Under Review**
+B. Weinstein, S. Graves, S. Marconi, A. Singh, A. Zare, D. Stewart, S. Bohlman and E. P. White, “A benchmark dataset for individual tree crown delineation in co-registered airborne RGB, LIDAR and hyperspectralimagery from the National Ecological Observation Network.” **Under Review**
 
 ## Conference Publications
 D. Stewart, A. Hampton, A. Zare, J. Dale, and J. Keller, “The Weakly-Labeled Rand Index,” in IEEE IGARSS 2021, In Press [![](/assets/images/pdflogo.png)](https://arxiv.org/abs/2103.04872)
