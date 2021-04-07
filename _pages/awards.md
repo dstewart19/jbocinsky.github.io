@@ -3,13 +3,13 @@ permalink: /awards/
 title: "Awards"
 ---
 
-# Graduate
+## Graduate
 - **Wilson and Marie Collins Endowment for Graduate Fellowship**
 	- Merit-based scholarship for PhD students at the University of Florida ($12,740 Fall 2019)
 - **Graduate School Preeminence Award**
 	- Pinnacle award for incoming PhD students (5 years of funding) at the University of Florida ($218,130 Fall 2017)
 
-# Undergraduate
+## Undergraduate
 - **Society of Physics Students Outstanding Senior**
 	- Top performing Engineering Physics student at Murray State University (Spring 2017)
 - **2<sup>nd</sup> Place Overall Engineering Research Presentation**
