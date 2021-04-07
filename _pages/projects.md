@@ -8,10 +8,14 @@ header:
  overlay_color: "#000"
 ---
 
-Beginning in May 2017 I have been working on research funded by the United States Office of Naval Research focusing on semi-supervised learning algorithms to segment sonar imagery of the sea floor. Past work has focused on quantitative comparisons of superpixel segmentation (see publications page). Currently I am focused on applying information statistics to sonar imagery to combine data into meaningful scenes. 
+Beginning in May 2017 I have been working on research funded by the United States Office of Naval Research (ONR) focusing on algorithms for sea floor scene understanding. Past work has focused on quantitative comparisons of superpixel segmentation (see publications page). Currently, I am focused on studying methods to align remote sensing imagery. 
 
+# Other Research Projects
+## CESU: Hurricane effects on the distribution and management of plant invasions in coastal habitats (October 2020 - Present)
+- Developed approaches to measure invasive species in the Everglades using hyperspectral sensors
+- Gathered field measurements using mobile spectrometers and a cablecam-mounted hyperspectral camera
 
-# Other Projects
+# Class Projects
 Outside of my main research I have completed several projects in the area of Machine Learning
 
 ## Classifying the MNIST Data
