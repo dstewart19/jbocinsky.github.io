@@ -17,10 +17,11 @@ Beginning in May 2017 I have been working on research funded by the United State
 <br><br>
 ## MRA: Disentangling Cross-scale Influences on Tree Species, Traits, and Diversity from Individual Trees to Continental Scales (January 2020 - Present)
 Produced novel quantitative metrics for tree crown delineation. Developed novel superpixel segmentation approaches for tree crown segmentation.
+Paper over new quantiative metric coming soon! (in prep)
 
 ## Coordinated Adaptive Phenotyping (CAPs) for Improving Soil Water Acquisition/Improved system assessment of aflatoxin risk utilizing novel data and sensing (August 2018 - December 2020)
 Captured drone-mounted HSI for drought studies in sesame and aflatoxin detection in peanuts. Produced temporal hyperspectral dataset
-  
+[Link to ECE News Article](https://news.ece.ufl.edu/2019/11/08/alina-zare-partners-with-agronomy/)
 
 
 # Class Projects
