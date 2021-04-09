@@ -4,4 +4,4 @@ layout: pdf
 permalink: /CV/
 ---
 
-<iframe src="https://drive.google.com/file/d/1K-qx0brHFRt4y76pZMZshEvxkahBM9aA/preview" width="1680" height="1080"></iframe>
+<iframe src="https://drive.google.com/file/d/1wm0qsMSorvv99TepOJ_bSP15y9t1qY3e/preview" width="1680" height="1080"></iframe>
