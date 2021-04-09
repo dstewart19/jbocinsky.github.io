@@ -22,7 +22,7 @@ Paper over new quantiative metric coming soon! (in prep)
 ## Coordinated Adaptive Phenotyping (CAPs) for Improving Soil Water Acquisition/Improved system assessment of aflatoxin risk utilizing novel data and sensing (August 2018 - December 2020)
 Captured drone-mounted HSI for drought studies in sesame and aflatoxin detection in peanuts. Produced temporal hyperspectral dataset
 [Link to ECE News Article](https://news.ece.ufl.edu/2019/11/08/alina-zare-partners-with-agronomy/)
-
+![Drone picture](/assets/images/drone_2020.png)
 
 # Class Projects
 Outside of my main research I have completed several projects in the area of Machine Learning
